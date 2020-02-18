@@ -1,11 +1,3 @@
----
-name: Bounty Task
-about: bounty
-title: ''
-labels: ''
-assignees: ''
-
----
 
 <!--
 # Simple Summary
